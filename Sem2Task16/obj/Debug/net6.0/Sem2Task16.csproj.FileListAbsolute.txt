@@ -1,0 +1,15 @@
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\obj\Debug\net6.0\Sem2Task16.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\obj\Debug\net6.0\Sem2Task16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\obj\Debug\net6.0\Sem2Task16.AssemblyInfoInputs.cache
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\obj\Debug\net6.0\Sem2Task16.AssemblyInfo.cs
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\obj\Debug\net6.0\Sem2Task16.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\bin\Debug\net6.0\Sem2Task16.exe
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\bin\Debug\net6.0\Sem2Task16.deps.json
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\bin\Debug\net6.0\Sem2Task16.runtimeconfig.json
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\bin\Debug\net6.0\Sem2Task16.dll
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\bin\Debug\net6.0\Sem2Task16.pdb
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\obj\Debug\net6.0\Sem2Task16.dll
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\obj\Debug\net6.0\refint\Sem2Task16.dll
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\obj\Debug\net6.0\Sem2Task16.pdb
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\obj\Debug\net6.0\Sem2Task16.genruntimeconfig.cache
+C:\Users\Екатерина\Documents\GB\G3731\G3731\Sem2Task16\obj\Debug\net6.0\ref\Sem2Task16.dll
