@@ -1,7 +1,7 @@
-﻿// System.Random numSintezator = new System.Random();
-// char[] digits = numSintezator.Next(10,100).ToString().ToCharArray();
-// Console.WriteLine(digits);
-// int digit1 = (int)digits[0]-48;
-// int digit2 = (int)digits[1]-48;
-// int resNum = digit1>digit2?digit1:digit2;
-// Console.WriteLine(resNum);
+﻿// Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает 
+// вторую цифру этого числа.
+
+int num = int.Parse(Console.ReadLine()??"0");
+int res = num/10;
+res = res%10;
+Console.WriteLine(res);
